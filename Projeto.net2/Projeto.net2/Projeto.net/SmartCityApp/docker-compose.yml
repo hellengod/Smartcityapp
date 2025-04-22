@@ -2,8 +2,8 @@ version: '3.4'
 
 services:
   smartcityapp:
+    image: smartcityapp
     build:
-      image: smartcityapp
       context: .
       dockerfile: Dockerfile
     ports:
