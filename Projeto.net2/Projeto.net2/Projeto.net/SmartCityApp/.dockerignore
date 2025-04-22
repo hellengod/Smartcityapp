@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+*.md
+*.log
+*.git
+.dockerignore
+Dockerfile
+docker-compose.yml
+.env
+.idea
+.vscode
+target/

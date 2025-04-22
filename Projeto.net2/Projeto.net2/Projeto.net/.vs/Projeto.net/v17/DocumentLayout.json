@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\viewmodels\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\viewmodels\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\viewmodels\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\viewmodels\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\viewmodels\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\viewmodels\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|c:\\users\\vitor\\downloads\\projeto.net2\\projeto.net2\\projeto.net\\smartcityapp\\viewmodels\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C6A44-B6A0-4824-BE3B-F4CB21335C1C}|SmartCityApp\\SmartCityApp.csproj|solutionrelative:smartcityapp\\viewmodels\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartCityApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:27:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\RouteRequest.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\ViewModels\\RouteRequest.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\RouteRequest.cs",
+              "RelativeToolTip": "SmartCityApp\\ViewModels\\RouteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:25:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\User.cs",
+              "RelativeToolTip": "SmartCityApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:20:04.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmartCityApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:14:32.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Program.cs",
+              "RelativeToolTip": "SmartCityApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:22:08.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "SmartCityApp\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:59:08.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\Models\\Report.cs",
+              "RelativeToolTip": "SmartCityApp\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:57:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\ViewModels\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\RegisterUserRequest.cs",
+              "RelativeToolTip": "SmartCityApp\\ViewModels\\RegisterUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:47:04.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\UserResponse.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\ViewModels\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\UserResponse.cs",
+              "RelativeToolTip": "SmartCityApp\\ViewModels\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:45:19.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\UserLogin.cs",
+              "RelativeDocumentMoniker": "SmartCityApp\\ViewModels\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Downloads\\Projeto.net2\\Projeto.net2\\Projeto.net\\SmartCityApp\\ViewModels\\UserLogin.cs",
+              "RelativeToolTip": "SmartCityApp\\ViewModels\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:44:23.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

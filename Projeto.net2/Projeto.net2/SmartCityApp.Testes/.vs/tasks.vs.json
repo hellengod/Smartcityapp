@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-SmartCityApp.Testes",
+      "appliesTo": "SmartCityApp.Testes.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
