@@ -13,16 +13,21 @@ docker-compose up --build
 --------------------------------------------------
 Serviços criados:
 - smartcityapp (API ASP.NET Core)
-- db (SQL Server)
 
 Acessando a API:
 --------------------------------------------------
 http://localhost:5000
 --------------------------------------------------
 Variáveis de ambiente utilizadas:
+
 Aplicação:
 ASPNETCORE_ENVIRONMENT=Development
 ConnectionStrings__DefaultConnection=User Id=rm552998;Password=050404;;Data Source=oracle.fiap.com.br:1521/ORCL;
+
+Banco de dados:
+- Utiliza o banco Oracle da FIAP, já hospedado externamente.
+- Não é necessário rodar banco local via Docker.
+
 
 --------------------------------------------------
 Parar tudo:
