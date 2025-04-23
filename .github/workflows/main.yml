@@ -36,4 +36,4 @@ jobs:
     steps:
     - name: Verify Deployment in Development
       run: |
-        curl -f https://smartcityapp-dev.herokuapp.com/health || exit 1
+        curl -f projeto-producao-d5fabecscvgbg7hf.brazilsouth-01.azurewebsites.net || exit 1
