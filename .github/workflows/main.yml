@@ -48,5 +48,4 @@ verify_deployment_development:
   steps:
     - name: Verify Deployment in Development
       run: |
-        # Verificando se o serviço está funcionando no servidor de desenvolvimento
-        curl -f http://your-development-server-ip/health || exit 1
+        curl -f https://smartcityapp-dev.herokuapp.com/health || exit 1
