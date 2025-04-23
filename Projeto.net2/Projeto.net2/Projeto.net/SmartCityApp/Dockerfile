@@ -5,7 +5,8 @@ WORKDIR /app
 # Copiar tudo da pasta atual
 COPY . .
 
-# Restaurar, compilar e publicar
+# Entrar na pasta correta antes de restaurar
+WORKDIR /app/Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp
 RUN dotnet restore SmartCityApp.csproj
 RUN dotnet publish SmartCityApp.csproj -c Release -o /app/publish
 
