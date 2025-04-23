@@ -24,8 +24,8 @@ jobs:
 
     - name: Build the Docker image
       run: |
-        docker build -f Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp/Dockerfile -t hellenbianchini/smartcityapp:latest .
-        
+        docker build -f Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp/Dockerfile -t hellengod/smartcityapp:latest .
+
     - name: Push the Docker image
       run: |
-        docker push hellenbianchini/smartcityapp:latest
+        docker push hellengod/smartcityapp:latest
