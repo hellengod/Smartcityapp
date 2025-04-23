@@ -41,13 +41,12 @@ jobs:
         # Adicione aqui o comando para o deploy no servidor de desenvolvimento
         # Exemplo: ssh username@dev-server "docker pull hellengod/smartcityapp:latest && docker run -d hellengod/smartcityapp:latest"
 
-  verify_deployment_development:
-    runs-on: ubuntu-latest
-    needs: deploy_development
-    environment: development
-    steps:
+verify_deployment_development:
+  runs-on: ubuntu-latest
+  needs: deploy_development
+  environment: development
+  steps:
     - name: Verify Deployment in Development
       run: |
-        # Comando para verificar se o serviço está funcionando no servidor de desenvolvimento
-        # Exemplo: curl -f http://dev-server/health || exit 1
-        curl -f http://dev-server/health || exit 1
+        # Verificando se o serviço está funcionando no servidor de desenvolvimento
+        curl -f http://your-development-server-ip/health || exit 1
