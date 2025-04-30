@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+      "totalReports": { "type": "integer" },
+      "reports": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": { "type": "integer" },
+            "title": { "type": "string" },
+            "description": { "type": "string" },
+            "userId": { "type": "integer" },
+            "createdAt": { "type": "string", "format": "date-time" }
+          },
+          "required": ["id", "title", "description", "userId", "createdAt"]
+        }
+      }
+    },
+    "required": ["totalReports", "reports"]
+  }
+  

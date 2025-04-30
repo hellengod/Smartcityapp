@@ -460,3 +460,15 @@ C:\Users\Vitor\Documents\FIAP\Projeto.net\SmartCityApp.testes\obj\Debug\net9.0\r
 C:\Users\Vitor\Documents\FIAP\Projeto.net\SmartCityApp.testes\obj\Debug\net9.0\SmartCityApp.Testes.pdb
 C:\Users\Vitor\Documents\FIAP\Projeto.net\SmartCityApp.testes\obj\Debug\net9.0\SmartCityApp.Testes.genruntimeconfig.cache
 C:\Users\Vitor\Documents\FIAP\Projeto.net\SmartCityApp.testes\obj\Debug\net9.0\ref\SmartCityApp.Testes.dll
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.dll
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\refint\SmartCityApp.Testes.dll
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.pdb
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\bin\Debug\net9.0\.msCoverageSourceRootsMapping_SmartCityApp.Testes
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\bin\Debug\net9.0\CoverletSourceRootsMapping_SmartCityApp.Testes
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.csproj.AssemblyReference.cache
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.AssemblyInfoInputs.cache
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.AssemblyInfo.cs
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.csproj.CoreCompileInputs.cache
+C:\Users\HellenBianchini\Smartcityapp\Projeto.net2\Projeto.net2\SmartCityApp.Testes\obj\Debug\net9.0\SmartCityApp.Testes.sourcelink.json

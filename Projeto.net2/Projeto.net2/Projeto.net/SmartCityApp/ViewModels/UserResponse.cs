@@ -3,7 +3,11 @@
     public class UserResponse
     {
         public int Id { get; set; }
-        public string Username { get; set; }
-        public string Email { get; set; }
+
+        // Propriedade obrigatória
+        public required string Username { get; set; }
+
+        // Propriedade obrigatória
+        public required string Email { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-using SmartCityApp.Models;
+using SmartCityApp.Models;  // Adicione esta linha se a classe User estiver no mesmo namespace
 
 public class Report
 {
@@ -6,9 +6,10 @@ public class Report
     public string Title { get; set; }
     public string Description { get; set; }
     public int UserId { get; set; }
-    public User User { get; set; }
+    public User? User { get; set; }  // A propriedade User foi corrigida para permitir que seja null
     public DateTime CreatedAt { get; set; }
-    // Constructor without the User parameter
+
+    // Construtor sem a necessidade de passar User
     public Report(string title, string description, int userId)
     {
         Title = title;

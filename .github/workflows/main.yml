@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Check out the code
       uses: actions/checkout@v2
@@ -24,11 +24,12 @@ jobs:
 
     - name: Build the Docker image
       run: |
-        docker build -f Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp/Dockerfile -t hellengod/smartcityapp:latest .
+        docker build -f Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp/Dockerfile \
+          -t hellengod/smartcityapp:latest \
+          Projeto.net2/Projeto.net2/Projeto.net/SmartCityApp
 
     - name: Push the Docker image
-      run: |
-        docker push hellengod/smartcityapp:latest
+      run: docker push hellengod/smartcityapp:latest
 
   verify_deployment_development:
     runs-on: ubuntu-latest
@@ -36,4 +37,4 @@ jobs:
     steps:
     - name: Verify Deployment in Development
       run: |
-        curl -f projeto-producao-d5fabecscvgbg7hf.brazilsouth-01.azurewebsites.net || exit 1
+        curl -f https://projeto-producao-d5fabecscvgbg7hf.brazilsouth-01.azurewebsites.net || exit 1
