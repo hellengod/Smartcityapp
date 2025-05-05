@@ -32,7 +32,7 @@ namespace SmartCityApp.Controllers
             // Criando a lista de waypoints diretamente a partir das strings
             var directionsRequest = new DirectionsRequest
             {
-                Waypoints = request.Waypoints.Select(w => new Waypoint { Location = w }).ToList() // Aqui usamos o "Waypoint" simples
+                Waypoints = request.Waypoints.Skip(1).Take(request.Waypoints.Count - 2).ToList(),
             };
 
             var response = await _googleMapsService.DirectionsQueryAsync(directionsRequest);
